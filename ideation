@@ -1,0 +1,55 @@
+29/1/25
+Project look :
+Login pagge - id password , create user , forgot password
+Login success aythe 2nd page
+If fail , retry ani osthadi
+Categories page -   box model  design , if clicked on a box -> respective category page 
+Ee page lo ne paina - wallet( wallet lo add money ) , account setting( pswd change , history , #ideas oosthe petty
+ 
+[ box - box meeda pic  , name of category , inka click arrow type chinna animation and bg lo hovering effect]
+After opening a category page - 
+[list laga dropdown similar to swiggy 
+ Image  ,add to cart-> - + , price , text ]
+#kudurthe search option 
+
+If atleast one is added to cart -> kinda proceed to pay option 
+Proceed to pay page- a) paina mana cart 
+b) last lo pay option 
+
+4.5) payment aythadi 
+
+If successful - qr is generated (on that page a time)
+( qr is scanned by chef and after single use , qr is not valid ) 
+Same page - receive or return 
+* Separate only , not single payment for “not same” category 
+
+Tea
+Lunch - meals ,pulav
+Breakfast
+Fast food
+Breverages & icecream
+Chocolates&chips
+Fruits 
+Bakery 
+Snacks
+
+Vision - Need to create  a mern project, need not to be unique
+Akbar - app , viraj - website
+
+
+Chef side - 
+
+Login 
+
+Scan option and order history , returned orders , wallet , account setting - pswd 
+#sales per day for later analysis of business man
+Scan chesthe aa specific order osthadi and given option (kodthe , customer ki receive or return timer 30 secs lo return orelse auto receive 
+Retrun kodthe order history pakkana returned items inko option 
+Return correct aythee wallet kki money pothai 
+
+Chef ki money ela osthai ante order recived ani kodthe and CHEF HAS A WALLET TOO
+
+
+Tuesday lopu - react varak , complete plan of ui and pages , degisn …front end part 
+
+
